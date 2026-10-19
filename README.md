@@ -1,10 +1,10 @@
-# Hi 👋, I'm Tomáš Greguš
+# Tomáš Greguš
 
 ### Software Engineering Student @ UTB | Full-stack Dev (Next.js & Astro)
 
-- 📫 How to reach me **gregustomas@seznam.cz**
+- E-mail: **gregustomas@seznam.cz**
 
-- 👨‍💻 All of my projects are available at **[https://tomasgregus.cz/](https://tomasgregus.cz/)**
+- All of my projects are available at **[https://tomasgregus.cz/](https://tomasgregus.cz/)**
 
 <h3 align="left">Connect with me:</h3>
 
