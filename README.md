@@ -1,6 +1,6 @@
 # Tomáš Greguš
 
-### Software Engineering Student @ UTB | Full-stack Dev (Next.js & Astro)
+### Software Engineering Student @ UTB | Full-stack Dev
 
 - E-mail: **gregustomas@seznam.cz**
 
