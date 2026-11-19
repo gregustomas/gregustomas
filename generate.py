@@ -14,7 +14,7 @@ ABOUT = {
     "role": "Full-stack Web Developer",
     "study": "Software Engineering @ UTB Zlín",
     "location": "Czech Republic",
-    "uptime": "20 years, 4 months, 1 day",
+    "uptime": "20 years",
     "stack": {
         "languages": ["TypeScript", "JavaScript", "Python", "C#"],
         "frontend": ["React", "Next.js", "Astro", "Tailwind"],
@@ -27,11 +27,6 @@ ABOUT = {
         "jsemzvosku.cz: End-to-end E-shop",
         "3DTiskDesign: Website, marketing",
     ],
-    "github": {
-        "repos": 11,
-        "contributions_1y": 1031,
-        "top_language": "TypeScript (89.5%)",
-    },
     "contact": {
         "email": "gregustomas@seznam.cz",
         "web": "tomasgregus.cz",
