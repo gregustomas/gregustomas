@@ -16,16 +16,16 @@ ABOUT = {
     "location": "Czech Republic",
     "uptime": "20 years, 4 months, 1 day",
     "stack": {
-        "languages": ["TypeScript", "JavaScript", "PHP", "C#"],
+        "languages": ["TypeScript", "JavaScript", "Python", "C#"],
         "frontend": ["React", "Next.js", "Astro", "Tailwind"],
         "backend": ["Firebase", "Supabase", "MySQL"],
-        "tools": ["Git", "Vercel", "Figma"],
+        "tools": ["Git", "Vercel", "Figma", "Cloudflare"],
     },
     "focus": ["web apps", "SEO", "performance"],
     "highlights": [
         "PrimePay: award-winning hackathon app",
-        "jsemzvosku.cz: Lighthouse 92/100/100/100",
-        "3DTiskDesign: top 10 on Google",
+        "jsemzvosku.cz: End-to-end E-shop",
+        "3DTiskDesign: Website, marketing",
     ],
     "github": {
         "repos": 11,
